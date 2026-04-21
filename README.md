@@ -6,5 +6,5 @@ My work sits at the intersection of hardware, software, and human behavior. IoT,
 
 Currently exploring AI-assisted design workflows, including Claude Code and Figma MCP integration for design system automation.
 
-📎 Portfolio: [fulker.com](https://www.fulker.com)  
-🔗 LinkedIn: [linkedin.com/in/jimfulker](https://www.linkedin.com/in/jimfulker)
+Portfolio: [fulker.com](https://www.fulker.com)  
+LinkedIn: [linkedin.com/in/jimfulker](https://www.linkedin.com/in/jimfulker)
